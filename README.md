@@ -30,7 +30,7 @@
 ### [ فایل zip پروژه را از اینجا دریافت کنید.](https://github.com/mmdmmjd/Pinger/archive/refs/heads/main.zip)
 ### پس از آن دستورات زیر را در ترمینال وارد کنید.
 
-Python Data\pingtest.py
+### Python Data\pingtest.py
 
 ###### *
 
