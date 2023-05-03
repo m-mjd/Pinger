@@ -14,7 +14,7 @@
 ###### *
 
 # نصب و استفاده در ویندوز:
-### [ فایل zip پروژه را از اینجا دریافت کنید.](https://github.com/mmdmmjd/Pinger/archive/refs/heads/main.zip)
+### [ فایل zip پروژه را از اینجا دریافت کنید.](https://github.com/m-mjd/Pinger/archive/refs/heads/main.zip)
 ###  سپس فایل Starter.bat را اجرا کنید و صبر کنید تا زمانی که متن Install was secfully را مشاهده نکردید صبر کنید .
 ### پس از اتمام آن یک بار فولدر برنامه را بسته و دوباره باز کنید.
 ###  سپس تنها یک فایل start.bat در صفحه شما میماند  آن را اجرا کنید.
@@ -27,7 +27,7 @@
 # نصب و استفاده در مک و لینوکس:
 ### برای استفاده از این ابزار در مک و لینوکس
 ### باید پایتون را بر روی سیستم خود نصب کنید.
-### [ فایل zip پروژه را از اینجا دریافت کنید.](https://github.com/mmdmmjd/Pinger/archive/refs/heads/main.zip)
+### [ فایل zip پروژه را از اینجا دریافت کنید.](https://github.com/m-mjd/Pinger/archive/refs/heads/main.zip)
 ### پس از آن دستورات زیر را در ترمینال وارد کنید.
 
 ### Python Data\pingtest.py
