@@ -43,7 +43,7 @@ python tcp.py
 1. وارد دایرکتوری پورت اسکنر شوید:
 
 ```shell
-cd "Pinger/port scanner"
+cd "pinger/port scanner"
 ```
 
 2. ماژول‌های مورد نیاز را نصب کنید:
