@@ -19,7 +19,7 @@ git clone https://github.com/m-mjd/Pinger.git
 1. وارد دایرکتوری تستر tcp شوید:
 
 ```shell
-cd Pinger/tcp
+cd "Pinger/tcp"
 ```
 
 2. ماژول‌های مورد نیاز را نصب کنید:
@@ -43,7 +43,7 @@ python tcp.py
 1. وارد دایرکتوری پورت اسکنر شوید:
 
 ```shell
-cd Pinger/port scanner
+cd "Pinger/port scanner"
 ```
 
 2. ماژول‌های مورد نیاز را نصب کنید:
