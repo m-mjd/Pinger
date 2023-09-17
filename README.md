@@ -35,7 +35,8 @@ python tcp.py
 ```
 
 حالا شما آماده‌اید تا از ابزار Pinger برای اسکن پورت‌ها و تست tcp استفاده کنید.
-```
+
+
 
 ### استفاده از پورت اسکنر:
 
@@ -57,3 +58,4 @@ pip install -r requirements.txt
 python Port_Scanner.py
 ```
 
+```
