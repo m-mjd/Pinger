@@ -1,0 +1,4 @@
+ping3
+tqdm
+colorama
+# pip install -r requirements.txt
